@@ -33,8 +33,8 @@ I’m passionate about building projects that help others learn and grow.
 ---
 
 ## 📫 Contact Me
-- Email: [your email here]  
-- LinkedIn: [your LinkedIn profile link]  
+- Email: [marlenedavids@yahoo.com]  
+- LinkedIn: [https://www.linkedin.com/in/marlene-davids-500360386/]  
 - GitHub: [https://github.com/marls79](https://github.com/marls79)  
 
 ---
