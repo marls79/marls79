@@ -1,4 +1,6 @@
 ## My Personal Journey
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
 # Hi, I'm Marlene Davids 👋
 
