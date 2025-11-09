@@ -1,5 +1,4 @@
 ## My Personal Journey
-![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 
 
@@ -21,7 +20,7 @@ I’m passionate about building projects that help others learn and grow.
 ---
 
 ## 💻 Skills
-- **Programming Languages:** Python, HTML, CSS  
+- **Programming Languages:** PythonV![Python](https://img.shields.io/badge/Python-3.10-blue)(not yet), HTML![HTML](https://img.shields.io/badge/HTML5-orange), CSS![CSS](https://img.shields.io/badge/CSS3-blueviolet)  
 - **Tools:** GitHub, VS Code  
 - **Other:** Open-source contributions, Markdown  
 
