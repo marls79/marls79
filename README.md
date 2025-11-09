@@ -1,14 +1,46 @@
 ## My Personal Journey
 
-Hi, I'm Marlene Davids 👋  
+# Hi, I'm Marlene Davids 👋
 
-🌱 I’m learning software development and GitHub.  
-💻 I recently made my first open-source contribution, where I learned how to fork a repository, make commits, and submit pull requests.  
-🎯 My goal is to build small projects using HTML, CSS, and Python, and to keep improving my coding skills.  
-✨ Fun fact: I enjoy creating projects that can help others learn and grow.  
+## 🌱 About Me
+I’m a beginner software developer learning GitHub, Python, HTML, and CSS.  
+I recently made my **first open-source contribution**, where I learned how to fork repositories, make commits, and submit pull requests.  
+I’m passionate about building projects that help others learn and grow.
 
-📫 Contact me: https://www.linkedin.com/in/marlene-davids-500360386/ or marlenedavids@yahoo.com
+---
 
+## 🎯 My Goals
+- Build small projects using Python, HTML, and CSS  
+- Contribute regularly to open-source projects  
+- Keep improving my GitHub portfolio and skills  
+- Learn more about software development best practices  
+
+---
+
+## 💻 Skills
+- **Programming Languages:** Python, HTML, CSS  
+- **Tools:** GitHub, VS Code  
+- **Other:** Open-source contributions, Markdown  
+
+---
+
+## 🏆 Achievements
+- Made my **first successful GitHub contribution**  
+- Learned how to fork a repository and make pull requests  
+- Created a **personal README** to showcase my skills and journey  
+- Developed good habits for commit history and portfolio management  
+
+---
+
+## 📫 Contact Me
+- Email: [your email here]  
+- LinkedIn: [your LinkedIn profile link]  
+- GitHub: [https://github.com/marls79](https://github.com/marls79)  
+
+---
+
+## ✨ Fun Fact
+I enjoy creating projects that help others learn coding and make programming more approachable!
 
                                                                                          |
 ## My Reflection
