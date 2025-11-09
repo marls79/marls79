@@ -1,5 +1,5 @@
 ## My Personal Journey
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 
 
