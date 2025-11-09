@@ -52,3 +52,6 @@ I now know how to:
 - Create new files and describe my project
 
 This experience helped me understand how open-source contributions work.
+
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgzemkxNDRiZTZjbHp2dnh2NDduMndhaGNuZWJraW9qZXJhNnJncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
+
